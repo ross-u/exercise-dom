@@ -48,3 +48,15 @@ articleContent.appendChild(textContent2);
 body.appendChild(articleBrief);
 body.appendChild(articleContent);
 
+
+
+// 1. Create an image element
+
+
+// 2. Add the src attribute with the link to an image
+
+
+// 3. Add style.width and style.height to the image node
+
+
+// 4. Append the image "before" the `articleBrief`
